@@ -19,6 +19,8 @@
 #include <FilePanel.h>
 #include <Window.h>
 
+
+
 class AppWindow : public BWindow
 {
 protected:
